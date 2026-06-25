@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn==1.7.2
+xgboost==2.0.3
+shap==0.46.0
+tensorflow
+fastapi
+uvicorn
+kafka-python
+streamlit
+plotly
+matplotlib
+seaborn
+joblib
+pydantic
+jupyter
+ipykernel
